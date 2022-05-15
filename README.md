@@ -37,3 +37,7 @@ Finally, we choose knn because it is a non-parametric method, and it is suitable
 
 Before proceeding to model training, we performed the data split, 25% as test data. This process is necessary to test the performance of the model we are going to implement.  
 Then as a performance metric we chose k = 5 following the elbow method, which is one of the most popular methods of determining the optimal value of k.
+
+## Authors
+- Enrico Romano
+- Simone Lu
